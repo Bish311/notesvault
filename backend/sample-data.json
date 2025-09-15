@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Meeting Notes",
+    "content": "Discussed project timelines and assigned tasks to team members.",
+    "tags": ["work", "urgent"]
+  },
+  {
+    "title": "Shopping List",
+    "content": "- Eggs\n- Milk\n- Bread\n- Fruits\n- Vegetables",
+    "tags": ["personal", "groceries"]
+  },
+  {
+    "title": "Programming Ideas",
+    "content": "1. Create a mobile app version\n2. Add dark mode\n3. Implement markdown support",
+    "tags": ["work", "ideas", "development"]
+  },
+  {
+    "title": "Book Recommendations",
+    "content": "- The Pragmatic Programmer\n- Clean Code\n- Design Patterns\n- Refactoring",
+    "tags": ["books", "programming"]
+  },
+  {
+    "title": "Vacation Plans",
+    "content": "Research destinations:\n- Beach resort\n- Mountain cabin\n- City tour\n\nCheck flight prices for next month.",
+    "tags": ["personal", "travel"]
+  }
+]
