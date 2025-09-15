@@ -97,3 +97,15 @@ vault/
 - **Frontend:** React, Tailwind CSS
 - **State Management:** React Hooks
 - **API Communication:** Axios
+
+## Testing
+
+For comprehensive testing information, see [TESTING.md](TESTING.md).
+
+## GitHub Setup
+
+This project has been initialized with Git. To push it to GitHub:
+
+1. See [GITHUB_SETUP.md](GITHUB_SETUP.md) for detailed instructions
+2. Create a GitHub repository named `notesvault`
+3. Run the `push-to-github.ps1` script (Windows) to push the code to GitHub
